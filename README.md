@@ -102,7 +102,7 @@ Users can upload files, such as images or documents, to include in their blog po
 
 Installation
 Clone the repository:
-https://github.com/Animace/MERN-Blog-FullStack.git
+https://github.com/Animace/Blog-FullStack
 
 
 
