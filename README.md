@@ -100,6 +100,10 @@ These actions empower users to manage their content effectively and contribute t
 
 Users can upload files, such as images or documents, to include in their blog posts. The file upload feature enhances the multimedia capabilities of the blog app, allowing users to enrich their posts with visual or supplementary content.
 
+Installation
+Clone the repository:
+https://github.com/Animace/MERN-Blog-FullStack.git
+
 
 
 
