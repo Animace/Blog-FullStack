@@ -1,6 +1,6 @@
 # Blog App Features
 
-This document outlines the key features of the CRUD App built with Express and MongoDB.
+This document outlines the key features of the App built with Express and MongoDB.
 
 ## Table of Contents
 
